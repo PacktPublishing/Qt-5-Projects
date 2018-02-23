@@ -23,6 +23,3 @@ In this book, I assume you already have a basic understanding of common data str
 * [Game Programming using Qt 5.x Beginner’s Guide - Second Edition](https://www.packtpub.com/big-data-and-business-intelligence/game-programming-using-qt-beginners-guide-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788399999)
 
 * [C++ GUI Programming with QT5](https://www.packtpub.com/application-development/c-gui-programming-qt5?utm_source=github&utm_medium=repository&utm_campaign=9781788397827)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
